@@ -1,0 +1,87 @@
+{
+  "shop": [
+    {
+      "id": "1717489678609",
+      "pname": "TIMBERWOLF CHECKERED COTTON SHIRT",
+      "pimage": "https://thefoomer.in/cdn/shop/products/PATP2782.jpg?v=1679638904",
+      "pprice": "999",
+      "poprice": "1200"
+    },
+    {
+      "id": "1717489865296",
+      "pname": "DEER EMBROIDERED SHIRT",
+      "pimage": "https://thefoomer.in/cdn/shop/files/MiConv.com__jpeg-optimizer_214_26_11zon.webp?v=1707386573&width=960",
+      "pprice": "599",
+      "poprice": "799"
+    },
+    {
+      "id": "1717490025784",
+      "pname": "Half Sleeve Women Formal Shirt",
+      "pimage": "https://www.jiomart.com/images/product/original/rvvjufpmeg/buynewtrend-solid-navy-rayon-half-sleeve-women-formal-shirt-product-images-rvvjufpmeg-0-202303221125.jpg?im=Resize=(600,750)",
+      "pprice": "580",
+      "poprice": "599"
+    },
+    {
+      "id": "1717492651950",
+      "pname": "Half Sleeve Women Formal Shirt",
+      "pimage": "https://www.jiomart.com/images/product/original/rvkqle5m1z/buynewtrend-solid-black-rayon-half-sleeve-women-formal-shirt-product-images-rvkqle5m1z-0-202303221124.jpg?im=Resize=(600,750)",
+      "pprice": "449",
+      "poprice": "499"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "Natwar Prajapati",
+      "email": "prajapatinatwar06@gmail.com",
+      "password": "88888888"
+    }
+  ],
+  "user": [
+    {
+      "id": "1720210587890",
+      "name": "Natwar Prajapati",
+      "mnumber": "7405413108",
+      "email": "prajapatinatwar06@gmail.com",
+      "password": "88888888",
+      "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+      "status": "unblock"
+    },
+    {
+      "id": "1720210914537",
+      "name": "jagdish",
+      "mnumber": "5555555555",
+      "email": "abcd@gmail.com",
+      "password": "1234",
+      "image": "/img/product-2.jpg",
+      "status": "unblock"
+    },
+    {
+      "id": "1723397195376",
+      "name": "yash Kamble",
+      "mnumber": "7600513885",
+      "email": "yashkamble1234@gmail.com",
+      "password": "12312312",
+      "image": "C:\\fakepath\\offer-1.png",
+      "status": "unblock"
+    },
+    {
+      "id": "1723397311301",
+      "name": "sandip",
+      "mnumber": "9876543210",
+      "email": "sd12@gmail.com",
+      "password": "87878787",
+      "image": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=2117",
+      "status": "unblock"
+    },
+    {
+      "id": "1723442195629",
+      "name": "karan ",
+      "mnumber": "7842327023",
+      "email": "kp123@gmail.com",
+      "password": "12121212",
+      "image": "C:\\fakepath\\cat-1.jpg",
+      "status": "unblock"
+    }
+  ]
+}
